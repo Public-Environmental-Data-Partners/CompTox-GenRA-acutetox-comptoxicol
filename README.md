@@ -1,3 +1,4 @@
+_This repo was forked for archival purposes by the [Public Environmental Data Partners](https://screening-tools.com/)._
 
 # Transitioning the generalised read-across approach (GenRA) to quantitative predictions: A case study using acute oral toxicity data
 
